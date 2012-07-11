@@ -1,4 +1,4 @@
-Machine_Learning_Links
+Machine Learning Links
 ======================
 
 Links and notes for Machine learning stuff
